@@ -1,0 +1,18 @@
+
+h4, h1 {
+  color: #E13A63;
+}
+
+#profile_pic {
+  border: 2px solid #E13A63;
+}
+
+@media only screen and (max-width: 1000px)
+{
+  body {
+display: block
+
+  }
+}
+
+}
